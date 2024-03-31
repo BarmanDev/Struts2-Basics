@@ -1,0 +1,27 @@
+# Archivos de configuración específicos de IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+
+# Directorios y archivos generados por Maven
+/target/
+*.jar
+*.war
+*.ear
+*.log
+maven-wrapper.jar
+
+# Archivos de configuración de Struts2
+struts.xml
+
+# Archivos de compilación y logs
+/build/
+/classes/
+/logs/
+
+# Otros archivos y directorios generados localmente
+.DS_Store
+Thumbs.db
